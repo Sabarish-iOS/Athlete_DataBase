@@ -1,0 +1,6 @@
+framework module Pods_Athlete_DataBaseTests {
+  umbrella header "Pods-Athlete DataBaseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
